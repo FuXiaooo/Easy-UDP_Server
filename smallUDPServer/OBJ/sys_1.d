@@ -1,0 +1,15 @@
+..\obj\sys_1.o: ..\LWIP\core\sys.c
+..\obj\sys_1.o: ..\LWIP\include\lwip/opt.h
+..\obj\sys_1.o: ..\LWIP\arch\lwipopts.h
+..\obj\sys_1.o: ..\LWIP\include\lwip/debug.h
+..\obj\sys_1.o: ..\LWIP\include\lwip/arch.h
+..\obj\sys_1.o: ..\LWIP\arch/cc.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\sys_1.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\sys_1.o: ..\LWIP\include\lwip/opt.h
+..\obj\sys_1.o: ..\LWIP\include\lwip/sys.h

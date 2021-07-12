@@ -1,0 +1,14 @@
+..\obj\sockets.o: ..\LWIP\api\sockets.c
+..\obj\sockets.o: ..\LWIP\include\lwip/opt.h
+..\obj\sockets.o: ..\LWIP\arch\lwipopts.h
+..\obj\sockets.o: ..\LWIP\include\lwip/debug.h
+..\obj\sockets.o: ..\LWIP\include\lwip/arch.h
+..\obj\sockets.o: ..\LWIP\arch/cc.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\sockets.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\sockets.o: ..\LWIP\include\lwip/opt.h

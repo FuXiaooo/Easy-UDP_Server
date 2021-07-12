@@ -1,0 +1,14 @@
+..\obj\stats.o: ..\LWIP\core\stats.c
+..\obj\stats.o: ..\LWIP\include\lwip/opt.h
+..\obj\stats.o: ..\LWIP\arch\lwipopts.h
+..\obj\stats.o: ..\LWIP\include\lwip/debug.h
+..\obj\stats.o: ..\LWIP\include\lwip/arch.h
+..\obj\stats.o: ..\LWIP\arch/cc.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\stats.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\stats.o: ..\LWIP\include\lwip/opt.h

@@ -1,0 +1,14 @@
+..\obj\dns.o: ..\LWIP\core\dns.c
+..\obj\dns.o: ..\LWIP\include\lwip/opt.h
+..\obj\dns.o: ..\LWIP\arch\lwipopts.h
+..\obj\dns.o: ..\LWIP\include\lwip/debug.h
+..\obj\dns.o: ..\LWIP\include\lwip/arch.h
+..\obj\dns.o: ..\LWIP\arch/cc.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\dns.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\dns.o: ..\LWIP\include\lwip/opt.h
