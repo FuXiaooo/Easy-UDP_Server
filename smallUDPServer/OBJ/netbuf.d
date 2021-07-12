@@ -1,0 +1,14 @@
+..\obj\netbuf.o: ..\LWIP\api\netbuf.c
+..\obj\netbuf.o: ..\LWIP\include\lwip/opt.h
+..\obj\netbuf.o: ..\LWIP\arch\lwipopts.h
+..\obj\netbuf.o: ..\LWIP\include\lwip/debug.h
+..\obj\netbuf.o: ..\LWIP\include\lwip/arch.h
+..\obj\netbuf.o: ..\LWIP\arch/cc.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\netbuf.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\netbuf.o: ..\LWIP\include\lwip/opt.h
