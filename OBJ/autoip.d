@@ -1,0 +1,14 @@
+..\obj\autoip.o: ..\LWIP\core\ipv4\autoip.c
+..\obj\autoip.o: ..\LWIP\include\lwip/opt.h
+..\obj\autoip.o: ..\LWIP\arch\lwipopts.h
+..\obj\autoip.o: ..\LWIP\include\lwip/debug.h
+..\obj\autoip.o: ..\LWIP\include\lwip/arch.h
+..\obj\autoip.o: ..\LWIP\arch/cc.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\autoip.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\autoip.o: ..\LWIP\include\lwip/opt.h

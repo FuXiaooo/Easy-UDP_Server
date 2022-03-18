@@ -1,0 +1,14 @@
+..\obj\api_msg.o: ..\LWIP\api\api_msg.c
+..\obj\api_msg.o: ..\LWIP\include\lwip/opt.h
+..\obj\api_msg.o: ..\LWIP\arch\lwipopts.h
+..\obj\api_msg.o: ..\LWIP\include\lwip/debug.h
+..\obj\api_msg.o: ..\LWIP\include\lwip/arch.h
+..\obj\api_msg.o: ..\LWIP\arch/cc.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\api_msg.o: D:\MDK-ARm\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\api_msg.o: ..\LWIP\include\lwip/opt.h
